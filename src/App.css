@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.navbarBlue {
+  background: rgb(0, 42, 84);
+}
+
+.navBlue-link {
+  color: grey;
+}
+
+.navBlue-link.active {
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
